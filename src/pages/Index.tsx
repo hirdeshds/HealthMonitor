@@ -130,7 +130,7 @@ const HomePage: React.FC = () => {
       {/* Header */}
       <header className="bg-white dark:bg-gray-900 p-4 border-b">
         <div className="flex justify-between items-center">
-          <h1 className="text-xl font-bold text-primary">HealthMonitor</h1>
+          <h1 className="text-xl font-bold text-primary">SwasthyaMate</h1>
           <BluetoothStatus />
         </div>
       </header>
